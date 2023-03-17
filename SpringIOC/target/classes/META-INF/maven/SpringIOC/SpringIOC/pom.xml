@@ -18,6 +18,12 @@
     <version>4.0.1</version>
     <scope>provided</scope>
 </dependency>
+<!-- https://mvnrepository.com/artifact/org.springframework/spring-core -->
+<dependency>
+    <groupId>org.springframework</groupId>
+    <artifactId>spring-context</artifactId>
+    <version>6.0.6</version>
+</dependency>
 <!-- https://mvnrepository.com/artifact/org.apache.tomcat/tomcat-servlet-api -->
 <dependency>
     <groupId>org.apache.tomcat</groupId>
